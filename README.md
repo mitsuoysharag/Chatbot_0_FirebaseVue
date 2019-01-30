@@ -1,4 +1,4 @@
-# firebasevue2
+# Chatbot Firebase Vue
 
 ## Project setup
 ```
